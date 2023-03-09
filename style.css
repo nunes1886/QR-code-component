@@ -13,7 +13,7 @@ body {
     max-width: 900px;
 }
 
-.content-container {
+.content {
     background-color: #fff;
     padding: 15px;
     border-radius: 12px;
@@ -37,7 +37,7 @@ p {
     max-width: 250px;
 }
 
-.content-container p {
+.content p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #808080;
     text-align: center;
